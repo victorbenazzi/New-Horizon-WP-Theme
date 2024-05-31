@@ -1,0 +1,92 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"settings": {
+        "color": {
+            "palette": [
+        {
+          "color": "#ffffff",
+          "name": "Background",
+          "slug": "background"
+        },
+        {
+          "color": "#362d2b",
+          "name": "Foreground",
+          "slug": "foreground"
+        },
+        {
+          "color": "#ffffff",
+          "name": "Card",
+          "slug": "card"
+        },
+        {
+          "color": "#362d2b",
+          "name": "Card Foreground",
+          "slug": "card-foreground"
+        },
+        {
+          "color": "#ffffff",
+          "name": "Popover",
+          "slug": "popover"
+        },
+        {
+          "color": "#362d2b",
+          "name": "Popover Foreground",
+          "slug": "popover-foreground"
+        },
+        {
+          "color": "#ffaf00",
+          "name": "Primary",
+          "slug": "primary"
+        },
+        {
+          "color": "#faf7eb",
+          "name": "Primary Foreground",
+          "slug": "primary-foreground"
+        },
+        {
+          "color": "#f1f1da",
+          "name": "Secondary",
+          "slug": "secondary"
+        },
+        {
+          "color": "#3b2a27",
+          "name": "Secondary Foreground",
+          "slug": "secondary-foreground"
+        },
+        {
+          "color": "#f1f1da",
+          "name": "Muted",
+          "slug": "muted"
+        },
+        {
+          "color": "#726b61",
+          "name": "Muted Foreground",
+          "slug": "muted-foreground"
+        },
+        {
+          "color": "#f1f1da",
+          "name": "Accent",
+          "slug": "accent"
+        },
+        {
+          "color": "#3b2a27",
+          "name": "Accent Foreground",
+          "slug": "accent-foreground"
+        },
+        {
+          "color": "#ff3d4b",
+          "name": "Destructive",
+          "slug": "destructive"
+        },
+        {
+          "color": "#faf7eb",
+          "name": "Destructive Foreground",
+          "slug": "destructive-foreground"
+        }
+      ]
+        }
+    },
+	"styles": {},
+	"patterns": []
+}
